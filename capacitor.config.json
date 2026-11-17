@@ -1,0 +1,13 @@
+{
+  "appId": "com.motoapex.sim3d",
+  "appName": "MotoApex 3D",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#0B0E14",
+    "allowMixedContent": false,
+    "buildOptions": {
+      "releaseType": "APK"
+    }
+  }
+}

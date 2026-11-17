@@ -1,0 +1,6 @@
+{
+  "name": "MotoApex 3D",
+  "description": "Simulasi mengendarai motor sport realistis 3D (R15M, CBR150R, ZX-25R, GSX-R150, Panigale V4R) dengan garasi interaktif, jalan raya berpohon, bayangan dinamis, dan fisika tabrakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
